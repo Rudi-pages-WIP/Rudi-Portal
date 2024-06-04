@@ -30,6 +30,13 @@ Le portail RUDI joue un rôle central dans le partage et l'accès aux données t
 
 4. **Espace Personnel**: Chaque utilisateur inscrit dispose d’un espace personnel où il peut interagir avec les données de manière sécurisée, déclarer des projets, formuler des demandes spécifiques d’accès aux données, et gérer ses propres données personnelles.
 
+```mermaid
+graph TD
+    A[Producteur de Données] -->|Publie des Données| NP[Noeud Producteur]
+    NP -->|Envoie des Données et Métadonnées| PR[Portail RUDI]
+    PR -->|Collecte et Intègre les Données| NP
+```
+
 ### Nœud Producteur
 
 Le nœud producteur est une autre application open-source essentielle à Rudi, disponible dans le repository [rudi-producer-node](https://github.com/Rudi-pages-WIP/Rudi-Producer-Node). Il regroupe toutes les fonctionnalités liées à la publication de données, telles que le chargement des jeux de données et la déclaration des métadonnées. Ce nœud est généralement géré par les producteurs de données au sein de leurs systèmes d'information ou sur des plateformes cloud.
