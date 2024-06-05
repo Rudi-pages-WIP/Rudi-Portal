@@ -1,3 +1,5 @@
+![image](https://github.com/Rudi-pages-WIP/.github/assets/14858948/4d9e6101-e842-4a72-9b85-982e272622cd)
+
 # Dépôt de code de Rudi-Portal
 
 Bienvenue dans la documentation du repository du portail de Rudi, une application web permettant aux utilisateurs de consulter le catalogue des jeux de données, gérer leurs projets et formuler des demandes d'accès spécifiques. 
@@ -13,6 +15,9 @@ Le portail RUDI joue un rôle central dans le partage et l'accès aux données t
 3. **Gestion responsable et éthique des données**: Le portail respecte les réglementations en matière de protection des données (RGPD) et assure une gestion transparente et sécurisée des données.
 
 4. **Espace personnel**: Chaque utilisateur inscrit dispose d’un espace personnel où il peut interagir avec les données de manière sécurisée, déclarer des projets, formuler des demandes spécifiques d’accès aux données, et gérer ses propres données personnelle
+
+![Screely Editor (15)](https://github.com/Rudi-pages-WIP/.github/assets/14858948/73cd3e3b-4c1a-4f5d-8a0c-41d32f8f453d)
+
 
 ## Installation
 
