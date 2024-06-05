@@ -26,12 +26,12 @@ Pour installer Rudi, veuillez vous référer au [guide d'installation général]
 ## Problèmes, questions ou propositions d'améliorations ?
 
 Nous avons prévu plusieurs endroits pour si vous en avez besoin:
-- Issues (pour les problèmes):
-- Questions et réponses :
-- Espace idées d'amélioration :
-- Feuille de route :
+- [Issues](https://github.com/Rudi-pages-WIP/Rudi-Portal/issues) (pour les problèmes)
+- [Questions et réponses](https://github.com/orgs/Rudi-pages-WIP/discussions/categories/questions-et-r%C3%A9ponses)
+- [Espace idées d'amélioration](https://github.com/orgs/Rudi-pages-WIP/discussions/categories/id%C3%A9es)
+- [Feuille de route](https://github.com/orgs/Rudi-pages-WIP/projects/1)
 
-Veuillez respecter et veiller au respect du code de conduite de l'organisation et des répositoires lors de vos intéractions sur ces espaces. 
+Veuillez respecter et veiller au respect du [code de conduite](https://github.com/Rudi-pages-WIP/Rudi-Portal?tab=coc-ov-file) lors de vos intéractions sur ces espaces. 
 
 ## Vous voulez contribuer du code ?
 
@@ -40,8 +40,4 @@ Veuillez tout d'abord vous familiariser avec le guide de contribution. Pour fair
 2. Attendre une réponse de la part des mainteneurs, tout en participant dans un débat constructif avec les autres participants dans les commentaires
 3. Si les maintenurs donnent le feu vert pour faire une Pull Request avec cette fonctionnalité, vous pouvez le réaliser si vous avez des ressources de développement nécessaires. Si vous ne les avez pas, veuillez le mentionner et dans ce cas là, l'idée sera ajoutée au backlog avec une étiquette (en recherche de ressources humaines ou financières de développement).
 
-
-
 Vous avez maintenant toutes les informations nécessaires pour installer et configurer la plateforme RUDI. Rendez-vous sur la page [questions-et-réponses](https://github.com/orgs/Rudi-pages-WIP/discussions/categories/questions-et-r%C3%A9ponses) si vous avez des questions. 
-
-Bon usage de Rudi !
