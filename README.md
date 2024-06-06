@@ -21,7 +21,7 @@ Le portail RUDI joue un rôle central dans le partage et l'accès aux données t
 
 ## Installation
 
-Pour installer Rudi, veuillez vous référer au [guide d'installation général](Rudi-pages-WIP/INSTALL.md).
+Pour installer Rudi, veuillez vous référer au [guide d'installation du portail](https://github.com/Rudi-pages-WIP/Rudi-Portal/blob/main/INSTALL.md).
 
 ## Problèmes, questions ou propositions d'améliorations ?
 
