@@ -1,6 +1,6 @@
 ---
 name: Rapport de bug
-about: Créer un rapport pour nous aider à améliorer
+about: Créer un rapport pour nous aider à améliorer RUDI
 title: ''
 labels: ''
 assignees: ''
