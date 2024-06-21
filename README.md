@@ -2,8 +2,9 @@
 
 # Dépôt de code de Rudi-Portal
 
-Bienvenue dans la documentation du repository du portail de Rudi. Le portail est conçu pour simplifier le partage et l'accès aux données locales. Il offre un espace interactif où les utilisateurs peuvent :
+Le portail RUDI est un composant central du projet [RUDI](https://github.com/Rudi-pages-WIP), jouant le rôle de point d'accès unique où les utilisateurs peuvent explorer, consulter et formuler des demandes d'accès à une multitude de jeux de données provenant de différentes sources. Il est conçu pour favoriser la collaboration entre producteurs et utilisateurs de données, tout en assurant une gestion responsable et sécurisée.
 
+**Fonctionnalités principales :**
 - **Explorer le catalogue** : Consultez et découvrez un assortiment riche de jeux de données, issus de multiples secteurs d'activité.
 - **Gérer des projets** : Déclarez et suivez vos projets de réutilisation de données.
 - **Faire des demandes d'accès** : Formulez des demandes spécifiques pour accéder à des jeux de données qui ne sont pas directement ouverts au public.
@@ -16,7 +17,7 @@ Bienvenue dans la documentation du repository du portail de Rudi. Le portail est
 
 Pour installer Rudi, veuillez vous référer au [guide d'installation du portail](https://github.com/Rudi-pages-WIP/Rudi-Portal/blob/main/INSTALL.md).
 
-## Contribuer au Portail
+## Contribuer au portail
 
 Nous accueillons et encourageons les contributions de la communauté. Voici comment vous pouvez participer :
 
